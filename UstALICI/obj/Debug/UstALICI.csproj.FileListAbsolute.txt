@@ -1,0 +1,11 @@
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\bin\Debug\UstALICI.exe.config
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\bin\Debug\UstALICI.exe
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\bin\Debug\UstALICI.pdb
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.csproj.AssemblyReference.cache
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.Form1.resources
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.Properties.Resources.resources
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.csproj.GenerateResource.cache
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.csproj.CoreCompileInputs.cache
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.exe
+C:\Users\tremi\Desktop\c#udemy\KararYapilari\UstALICI\obj\Debug\UstALICI.pdb
